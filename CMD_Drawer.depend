@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1525443526 source:f:\programming\cpp\cmdd\cmd_drawer\main.cpp
+	"Drawer.h"
+	<bits/stdc++.h>
+	<ctime>
+	<conio.h>
+
+1525362833 source:f:\programming\cpp\cmdd\cmd_drawer\drawer.cpp
+
+1525432633 f:\programming\cpp\cmdd\cmd_drawer\drawer.h
+	<windows.h>
+
+1525412180 f:\programming\cpp\cmdd\cmd_drawer\shellscalingapi.h
+	<shtypes.h>
+	<winapifamily.h>
+
+1525440708 source:f:\programming\cpp\cmdd\cmd_drawer\hook.cpp
+	"hook.h"
+
+1525440595 f:\programming\cpp\cmdd\cmd_drawer\hook.h
+	<Windows.h>
+	<iostream>
+	<Windowsx.h>
+
